@@ -20,6 +20,8 @@ A aplicação consiste em consumir uma API externa para obter dados em tempo rea
 
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
+- [HG Brasil – Finance API](https://hgbrasil.com/status/finance)
+
 
 ##  Como executar
 
